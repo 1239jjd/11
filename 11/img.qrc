@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/forward.png</file>
+        <file>img/open.png</file>
+        <file>img/play.png</file>
+        <file>img/rewind.png</file>
+        <file>img/stop.png</file>
+        <file>img/video.png</file>
+        <file>img/background.png</file>
+        <file>img/play1.png</file>
+        <file>img/forward1.png</file>
+        <file>img/open1.png</file>
+        <file>img/play2.png</file>
+        <file>img/rewind1.png</file>
+        <file>img/stop1.png</file>
+    </qresource>
+</RCC>
